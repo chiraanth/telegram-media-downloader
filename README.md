@@ -223,7 +223,7 @@ pip freeze > requirements.txt
 
 We welcome all kinds of contributions!
 
-- 🐛 Found a bug? Open an [issue](https://github.com/achiraanth/telegram-media-downloader/issues)
+- 🐛 Found a bug? Open an [issue](https://github.com/chiraanth/telegram-media-downloader/issues)
 - 💡 Suggest a feature? Submit a PR
 - ⭐ Like the project? Star it!
 
