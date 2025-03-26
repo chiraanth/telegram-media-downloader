@@ -237,13 +237,6 @@ git checkout -b your-feature-branch
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-Use it freely with credit.
-
----
-
 ## 👤 Author
 
 Built with ❤️ by [Chiraanth](https://github.com/achiraanth)
