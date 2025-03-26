@@ -1,0 +1,5 @@
+telethon
+tqdm
+loguru
+retrying
+python-dotenv

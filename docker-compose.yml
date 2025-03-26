@@ -1,0 +1,9 @@
+version: '3'
+services:
+  tgbot:
+    build: .
+    restart: unless-stopped
+    volumes:
+      - ./downloads:/app/downloads
+    env_file:
+      - .env
